@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="peli1">Toy Story</string>
+    <string name="peli2">Peliculas</string>
+    <string name="peli3">Peliculas</string>
+    <string name="peli4">Peliculas</string>
+    <string name="peli5">Peliculas</string>
+
+    <string name="peli1_desc">Peliculas</string>
+    <string name="peli2_desc">Peliculas</string>
+    <string name="peli3_desc">Peliculas</string>
+    <string name="peli4_desc">Peliculas</string>
+    <string name="peli5_desc">Peliculas</string>
+</resources>
